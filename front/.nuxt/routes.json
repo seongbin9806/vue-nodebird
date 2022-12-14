@@ -1,0 +1,38 @@
+[
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/seongbin/Desktop/vue-nodebird/ch1/front/pages/profile.vue",
+    "chunkName": "pages/profile"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/Users/seongbin/Desktop/vue-nodebird/ch1/front/pages/signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "hashtag-id",
+    "path": "/hashtag/:id?",
+    "component": "/Users/seongbin/Desktop/vue-nodebird/ch1/front/pages/hashtag/_id.vue",
+    "chunkName": "pages/hashtag/_id"
+  },
+  {
+    "name": "post-id",
+    "path": "/post/:id?",
+    "component": "/Users/seongbin/Desktop/vue-nodebird/ch1/front/pages/post/_id.vue",
+    "chunkName": "pages/post/_id"
+  },
+  {
+    "name": "user-id",
+    "path": "/user/:id?",
+    "component": "/Users/seongbin/Desktop/vue-nodebird/ch1/front/pages/user/_id.vue",
+    "chunkName": "pages/user/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/seongbin/Desktop/vue-nodebird/ch1/front/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
