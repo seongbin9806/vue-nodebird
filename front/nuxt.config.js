@@ -38,5 +38,8 @@ module.exports = {
     browserBaseURL: 'http://localhost:8081',
     baseURL: 'http://localhost:8081',
     https: false,
+  },
+  server: {
+    port: process.env.PORT || 3081,
   }
 }
